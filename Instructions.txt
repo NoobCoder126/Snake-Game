@@ -1,1 +1,4 @@
 How To Play
+
+Move the Snake using arrow keys , once you eat fruit snake grows
+if your collide with bars you loose , 
